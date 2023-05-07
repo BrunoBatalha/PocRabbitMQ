@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ngz6wyGl6FIvws9zn0aEm3JlypFnaFyRaD9VUbUHNieLz+6f97Ax2Ne4x3xaYbHaA6vhTtvV1cA8z0SLv5Vdew==",
+  "success": true,
+  "projectFilePath": "/home/bruno/Documentos/PocQueues/Send/Send.csproj",
+  "expectedPackageFiles": [
+    "/home/bruno/.nuget/packages/rabbitmq.client/6.5.0/rabbitmq.client.6.5.0.nupkg.sha512",
+    "/home/bruno/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/home/bruno/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
